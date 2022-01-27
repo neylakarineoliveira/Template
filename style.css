@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2? family= Outfit:wght@100;200;300 & family= Righteous & display=swap');
+
+body{
+
+    background: #0D1A2D;
+}
+
+.box{
+    width: 270px;
+    height: 440px;
+    top: -427px;
+    left: -808px;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background-color: #15273F;
+}
+
+.box-2{
+    width: 240px;
+    height: 220px;
+    top: 388px;
+    left: 969px;
+    border-radius: 10px;
+    border: none;
+    background: #012B55;
+    position: relative;
+    top:  15px;
+    left: 15px;
+}
+
+.img-box{
+    width: 240px;
+    height: 220px;
+    border-radius: 5px;
+}
+
+
+.p-1{
+    font-family: 'Outfit', sem serifa;
+    font-size: 16px;
+    position: relative;
+    top: 25px;
+    left: 15px;
+    color: white;
+    text-decoration: none;
+
+}
+    a:hover {
+        text-decoration: none;
+        color: #04FDFA;
+
+        }
+
+ .p-2{
+    position: relative;
+    top: 25px;
+    left: 16px;
+    color:  #92A8C6;
+    font-family: 'Outfit', sem serifa;
+    font-weight: lighter ;
+    font-size: 13px;
+ }
+
+ .p-3{
+    position: relative;
+    top: 30px;
+    left: 27px;
+    color:  #04FDFA;
+    font-family: 'Outfit', sem serifa;
+    font-weight: lighter ;
+    font-size: 12px ;
+
+   }
+
+.p-4{
+       
+    position: relative;
+    top: 4px;
+    left: 180px;
+    color: #92A8C6;
+    font-family: 'Outfit', sem serifa;
+    font-weight: lighter ;
+    font-size: 12px;
+
+   }
+
+.p-5{
+    position: relative;
+    top: 47px;
+    left: 55px;
+    color: #92A8C6;
+    font-family: 'Outfit', sem serifa;
+    font-weight: lighter ;
+    font-size: 12px;
+  }
+
+.p-6{
+    position: relative;
+    top: 17px;
+    left: 119px;
+    color: #F7FFFF;
+    font-family: 'Outfit', sem serifa;
+    font-weight: lighter ;
+    font-size: 11px;
+    text-decoration: none;
+    
+}
+
+.img-1{
+    position: relative;
+    top: -88px;
+    left: 120px;
+
+   }
+
+.img-2{
+    width: 20px;
+    position: relative;
+    top: -18px;
+    left: -40px;
+    border: 1px solid white;
+    border-radius: 50px;
+   
+}
+
+.img-3{
+    position: relative;
+    top: -88px;
+    left: -75px;
+
+}
+
+.linha{
+    border: 0.8px ridge #2F4159 ;
+     width: 240px;
+     position: relative;
+     left: 10px;
+     top: -90px;
+     color: black;
+   }
+
+.rodape{
+    position: relative;
+    top: 650px;
+    left: 570px;
+    text-decoration: none;
+    color: #04FDFA;
+
+}
+
+
+
